@@ -1,0 +1,1 @@
+﻿Invoke-PS2EXE -InputFile .\filecleaner1.32.ps1 -OutputFile .\FileCleaner.exe -NoConsole -IconFile .\FileCleaner.ico -Title "FileCleaner" -Product "FileCleaner" -Description "Batch file renamer and metadata manager" -Company "ThePlatypuses" -Version 1.3.2
